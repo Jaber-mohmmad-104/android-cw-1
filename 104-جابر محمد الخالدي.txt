@@ -1,0 +1,15 @@
+ public static void main(String []args){
+        System.out.println("Hello World");
+     
+      int x = 15 ;
+       
+      int b = 10 ;
+      
+     
+      System.out.println(boolean a = x > b)
+       
+       System.out.println(x+b) ;
+     
+       System.out.println(x*b) ;
+     
+     }  
