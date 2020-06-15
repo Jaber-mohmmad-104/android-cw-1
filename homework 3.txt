@@ -1,0 +1,23 @@
+public class Main
+{
+	public static void main(String[] args) {
+     
+       double Z = 86.4;
+       if(Z<100){
+           System.out.println('A');
+              if(Z<90){
+               System.out.println('B');
+                if(Z<80){
+                   System.out.println('C');
+                   if(Z<70){
+                       System.out.println('D');
+                       if(Z<60){
+                           System.out.println('F');
+                       }
+                   }
+               }
+           }
+       }
+       
+	}
+}
