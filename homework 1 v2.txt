@@ -1,0 +1,24 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Ahmed");
+		System.out.println(86);
+		System.out.println('Rashed');
+		System.out.println(91);
+		System.out.println("mariam");
+		System.out.println(77);
+	}
+     	public static void mark (int X){
+     	    
+     	    if(X>=90){
+     	        System.out.println('A');
+     	    else if(X>=80){    
+     	        System.out.println('B');
+     	       else if(X>=70){
+     	           System.out.println('C');
+     	         else if(X>=60){  
+     	           System.out.println('D');
+     	            else if(X>=50){
+     	                System.out.println('F');
+	}
+}
